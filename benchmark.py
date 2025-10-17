@@ -49,7 +49,7 @@ SELECTED_MODEL = 'dt'
 
 # PyTorch training params (for MLP/LSTM)
 PT_EPOCHS = 100
-PT_BATCH_SIZE = 256
+PT_BATCH_SIZE = 64
 PT_LR = 1e-4
 # --------------------------------------------
 
